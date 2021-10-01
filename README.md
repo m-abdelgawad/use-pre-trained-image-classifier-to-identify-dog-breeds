@@ -5,7 +5,8 @@
 [![Golden Retriever](pet_images/Golden_retriever_05257.jpg)](https://youtu.be/B06TRvHQ0ew "Golden Retriever")
 
 ## Project Goal
-Improving my programming skills using Python
+Improving my programming skills using Python.
+
 In this project I used a created image classifier to identify dog breeds. I was asked to focus on Python and not on the actual classifier (I will focus on building a classifier myself later in the program).
 
 ## Description:
