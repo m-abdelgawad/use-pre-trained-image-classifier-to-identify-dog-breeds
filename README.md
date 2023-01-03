@@ -7,7 +7,7 @@
 ## Project Goal
 Improving my programming skills using Python.
 
-In this project I used a created image classifier to identify dog breeds. I was asked to focus on Python and not on the actual classifier (I will focus on building a classifier myself later in the program).
+I tested my Python skills by working with three different pre-trained image classifiers. I wrote my own script to identify different dog breeds.
 
 ## Description:
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. 
