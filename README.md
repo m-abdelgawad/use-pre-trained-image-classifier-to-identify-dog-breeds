@@ -5,9 +5,9 @@
 [![Golden Retriever](pet_images/Golden_retriever_05257.jpg)](https://youtu.be/B06TRvHQ0ew "Golden Retriever")
 
 ## Project Goal
-I tested my Python skills by working with three different pre-trained image classifiers. I wrote my own script to identify different dog breeds.
+In this project, I tested my Python skills by working with three different pre-trained image classifiers. I wrote my own script to identify different dog breeds.
 
-## Description:
+## Project Description:
 Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. 
 
 Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
